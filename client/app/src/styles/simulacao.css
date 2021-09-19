@@ -1,0 +1,75 @@
+.simulacao {
+  width: 628px;
+  left: 387px;
+  top: 950px;
+  margin: auto;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px #ececec;
+  border-radius: 5px;
+}
+h5 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+.container-simulacao {
+  display: flex;
+  padding: 1em 3em;
+}
+
+.row-simulacao {
+  text-align: left;
+  display: inline-block;
+  width: 50%;
+}
+.card-simulacao {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+}
+.titulo-simulacao {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #737373;
+}
+.valor-simulacao {
+  padding: 0.5em 0.5em 0.5em 0.5 !important;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #333333;
+}
+
+#efetuar {
+  width: 554px;
+  height: 44px;
+  left: 424px;
+  top: 1472px;
+
+  background: #21ae1e;
+  border-radius: 6px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.07em;
+
+  color: #ffffff;
+}

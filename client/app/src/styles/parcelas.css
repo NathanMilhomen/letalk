@@ -1,0 +1,38 @@
+.container-parcelas {
+  padding: 1em 3em;
+}
+.title {
+  text-align: left;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #737373;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  list-style: none;
+}
+.parcela {
+  justify-content: space-between;
+  padding-bottom: 0.25em;
+}
+
+ul div {
+  display: flex;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #333333;
+}
+
+.parcela span {
+  font-weight: bold;
+}
